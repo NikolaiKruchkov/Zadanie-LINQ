@@ -1,0 +1,16 @@
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\bin\Debug\net5.0\Zadanie LINQ.exe
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\bin\Debug\net5.0\Zadanie LINQ.deps.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\bin\Debug\net5.0\Zadanie LINQ.runtimeconfig.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\bin\Debug\net5.0\Zadanie LINQ.runtimeconfig.dev.json
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\bin\Debug\net5.0\Zadanie LINQ.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\bin\Debug\net5.0\ref\Zadanie LINQ.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\bin\Debug\net5.0\Zadanie LINQ.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.csproj.AssemblyReference.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.GeneratedMSBuildEditorConfig.editorconfig
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.AssemblyInfoInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.AssemblyInfo.cs
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.csproj.CoreCompileInputs.cache
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\ref\Zadanie LINQ.dll
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.pdb
+\\fs-project-lah\03_Technical_Office_Fitout\USER_TO\08. Nikolai Kryuchkov\42. Автоматизация BIM\Задание LINQ\Zadanie LINQ\Zadanie LINQ\obj\Debug\net5.0\Zadanie LINQ.genruntimeconfig.cache
